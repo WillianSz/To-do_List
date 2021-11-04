@@ -9,7 +9,7 @@ CSS
 JavaScript
 
 <h2 align="center">
-Web Sample
+Web Samples
 </h2>
 
 <h3 align="center">
